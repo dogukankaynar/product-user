@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a user and product management application built with React and Context API. It also utilizes React Router for page navigation.
 
 ## Available Scripts
 
